@@ -1,15 +1,17 @@
 {
-    "owner": {
-        "username": "AceyDoCodes",
-        "email": "aceygoesboom@gmail.com"
-    },
+  "repo": "https://github.com/AceAkira1017/Project",
 
-    "target": {
-        "CNAME": {
-            "name": "acey",
-            "value": "cname.vercel-dns.com"
-        }
-    },
+  "owner": {
+    "username": "itzmeac3",
+    "email": "akiratakuyash09@gmail.com"
+  },
 
-    "proxied": false
+  "target": {
+    "CNAME": {
+       "name": "ace", 
+       "value": "https://projects-folio.vercel.app/"
+     }
+  },
+
+  "proxied": false
 }
