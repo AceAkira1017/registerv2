@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/AceAkira1017/Project",
+
+  "owner": {
+    "username": "itzmeac3",
+    "email": "akiratakuyash09@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "ace", 
+       "value": "https://projects-folio.vercel.app/"
+     }
+  },
+
+  "proxied": false
+}
